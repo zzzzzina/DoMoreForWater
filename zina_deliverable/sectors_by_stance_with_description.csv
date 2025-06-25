@@ -1,0 +1,203 @@
+gpt_stance,fine_sector,count,Description
+against,C20,235,Manufacture of chemicals and chemical products
+against,C28,133,Manufacture of machinery and equipment n.e.c.
+against,C26,130,"Manufacture of computer, electronic and optical products"
+against,C22,107,Manufacture of rubber and plastic products
+against,individual,71,
+against,C32,35,Other manufacturing
+against,C24,32,Manufacture of basic metals
+against,H49,23,Land transport and transport via pipelines
+against,C10,22,Manufacture of food products
+against,C21,18,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+against,C30,16,Manufacture of other transport equipment
+against,C,14,Manufacturing
+against,C13,14,Manufacture of textiles
+against,C18,10,Printing and reproduction of recorded media
+against,C25,8,"Manufacture of fabricated metal products, except machinery and equipment"
+against,H52,8,Warehousing and support activities for transportation
+against,J62,8,"Computer programming, consultancy and related activities"
+against,B8,7,Other mining and quarrying
+against,C19,7,Manufacture of coke and refined petroleum products
+against,C23,7,Manufacture of other non-metallic mineral products
+against,N82,7,"Office administrative, office support and other business support activities"
+against,E38,6,"Waste collection, treatment and disposal activities; materials recovery"
+against,J63,6,Information service activities
+against,M74,6,"Other professional, scientific and technical activities"
+against,B6,5,Extraction of crude petroleum and natural gas
+against,C14,5,Manufacture of wearing apparel
+against,J61,4,Telecommunications
+against,N,4,Administrative and support service activities
+against,D35,3,"Electricity, gas, steam and air conditioning supply"
+against,H51,3,Air transport
+against,Q86,3,Human health activities
+against,S94,3,Activities of membership organisations
+against,S95,3,Repair of computers and personal and household goods
+against,T,3,Activities of households as employers; undifferentiated goods - and services - producing activities of households for own use
+against,C17,2,Manufacture of paper and paper products
+against,C29,2,"Manufacture of motor vehicles, trailers and semi-trailers"
+against,G46,2,"Wholesale trade, except of motor vehicles and motorcycles"
+against,M72,2,Scientific research and development
+against,B9,1,Mining support service activities
+against,C16,1,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+against,F42,1,Civil engineering
+against,G47,1,"Retail trade, except of motor vehicles and motorcycles"
+against,J59,1,"Motion picture, video and television programme production, sound recording and music publishing activities"
+against,M69,1,Legal and accounting activities
+against,S96,1,Other personal service activities
+against,T98,1,Undifferentiated goods- and services-producing activities of private households for own use
+exemption,C20,347,Manufacture of chemicals and chemical products
+exemption,C26,247,"Manufacture of computer, electronic and optical products"
+exemption,C28,188,Manufacture of machinery and equipment n.e.c.
+exemption,C22,144,Manufacture of rubber and plastic products
+exemption,C32,81,Other manufacturing
+exemption,C21,44,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+exemption,individual,41,
+exemption,C30,33,Manufacture of other transport equipment
+exemption,C24,31,Manufacture of basic metals
+exemption,N82,27,"Office administrative, office support and other business support activities"
+exemption,C10,21,Manufacture of food products
+exemption,C13,21,Manufacture of textiles
+exemption,J62,19,"Computer programming, consultancy and related activities"
+exemption,S95,18,Repair of computers and personal and household goods
+exemption,C25,17,"Manufacture of fabricated metal products, except machinery and equipment"
+exemption,N,16,Administrative and support service activities
+exemption,H49,14,Land transport and transport via pipelines
+exemption,M74,14,"Other professional, scientific and technical activities"
+exemption,C18,13,Printing and reproduction of recorded media
+exemption,C23,12,Manufacture of other non-metallic mineral products
+exemption,M72,11,Scientific research and development
+exemption,S94,11,Activities of membership organisations
+exemption,T,11,Activities of households as employers; undifferentiated goods - and services - producing activities of households for own use
+exemption,C19,9,Manufacture of coke and refined petroleum products
+exemption,J63,9,Information service activities
+exemption,D35,8,"Electricity, gas, steam and air conditioning supply"
+exemption,B8,7,Other mining and quarrying
+exemption,C,7,Manufacturing
+exemption,H52,7,Warehousing and support activities for transportation
+exemption,C29,6,"Manufacture of motor vehicles, trailers and semi-trailers"
+exemption,E38,6,"Waste collection, treatment and disposal activities; materials recovery"
+exemption,J59,6,"Motion picture, video and television programme production, sound recording and music publishing activities"
+exemption,Q86,5,Human health activities
+exemption,B6,4,Extraction of crude petroleum and natural gas
+exemption,G46,4,"Wholesale trade, except of motor vehicles and motorcycles"
+exemption,M69,4,Legal and accounting activities
+exemption,C14,3,Manufacture of wearing apparel
+exemption,C17,3,Manufacture of paper and paper products
+exemption,C27,3,Manufacture of electrical equipment
+exemption,E36,3,"Water collection, treatment and supply"
+exemption,G45,3,Wholesale and retail trade and repair of motor vehicles and motorcycles
+exemption,H51,3,Air transport
+exemption,M71,3,Architectural and engineering activities; technical testing and analysis
+exemption,J58,2,Publishing activities
+exemption,J61,2,Telecommunications
+exemption,N77,2,Rental and leasing activities
+exemption,O84,2,Public administration and defence; compulsory social security
+exemption,A3,1,Fishing and aquaculture
+exemption,B5,1,Mining of coal and lignite
+exemption,B9,1,Mining support service activities
+exemption,E,1,Water supply; sewerage; waste managment and remediation activities
+exemption,E37,1,Sewerage
+exemption,F42,1,Civil engineering
+exemption,G47,1,"Retail trade, except of motor vehicles and motorcycles"
+exemption,H,1,Transporting and storage
+exemption,R91,1,"Libraries, archives, museums and other cultural activities"
+support,individual,1121,
+support,C20,76,Manufacture of chemicals and chemical products
+support,M74,61,"Other professional, scientific and technical activities"
+support,C26,31,"Manufacture of computer, electronic and optical products"
+support,C28,23,Manufacture of machinery and equipment n.e.c.
+support,C22,22,Manufacture of rubber and plastic products
+support,J63,16,Information service activities
+support,M72,12,Scientific research and development
+support,C32,10,Other manufacturing
+support,C21,8,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+support,C13,6,Manufacture of textiles
+support,C18,4,Printing and reproduction of recorded media
+support,E38,4,"Waste collection, treatment and disposal activities; materials recovery"
+support,N,4,Administrative and support service activities
+support,S95,4,Repair of computers and personal and household goods
+support,C24,3,Manufacture of basic metals
+support,C30,3,Manufacture of other transport equipment
+support,E36,3,"Water collection, treatment and supply"
+support,J62,3,"Computer programming, consultancy and related activities"
+support,M71,3,Architectural and engineering activities; technical testing and analysis
+support,N77,3,Rental and leasing activities
+support,Q86,3,Human health activities
+support,S94,3,Activities of membership organisations
+support,C,2,Manufacturing
+support,C23,2,Manufacture of other non-metallic mineral products
+support,C29,2,"Manufacture of motor vehicles, trailers and semi-trailers"
+support,C33,2,Repair and installation of machinery and equipment
+support,J58,2,Publishing activities
+support,M70,2,Activities of head offices; management consultancy activities
+support,N82,2,"Office administrative, office support and other business support activities"
+support,A3,1,Fishing and aquaculture
+support,B8,1,Other mining and quarrying
+support,C11,1,Manufacture of beverages
+support,G45,1,Wholesale and retail trade and repair of motor vehicles and motorcycles
+support,H49,1,Land transport and transport via pipelines
+support,H52,1,Warehousing and support activities for transportation
+support,J60,1,Programming and broadcasting activities
+support,J61,1,Telecommunications
+support,S96,1,Other personal service activities
+support,T,1,Activities of households as employers; undifferentiated goods - and services - producing activities of households for own use
+uncertain,C20,113,Manufacture of chemicals and chemical products
+uncertain,individual,107,
+uncertain,C26,86,"Manufacture of computer, electronic and optical products"
+uncertain,N82,63,"Office administrative, office support and other business support activities"
+uncertain,C22,51,Manufacture of rubber and plastic products
+uncertain,M74,48,"Other professional, scientific and technical activities"
+uncertain,C28,46,Manufacture of machinery and equipment n.e.c.
+uncertain,S95,45,Repair of computers and personal and household goods
+uncertain,J63,37,Information service activities
+uncertain,T,33,Activities of households as employers; undifferentiated goods - and services - producing activities of households for own use
+uncertain,C32,32,Other manufacturing
+uncertain,N,29,Administrative and support service activities
+uncertain,J59,23,"Motion picture, video and television programme production, sound recording and music publishing activities"
+uncertain,C,21,Manufacturing
+uncertain,S94,21,Activities of membership organisations
+uncertain,J62,19,"Computer programming, consultancy and related activities"
+uncertain,C21,14,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+uncertain,H52,13,Warehousing and support activities for transportation
+uncertain,J61,13,Telecommunications
+uncertain,C13,12,Manufacture of textiles
+uncertain,C24,10,Manufacture of basic metals
+uncertain,H49,10,Land transport and transport via pipelines
+uncertain,C19,9,Manufacture of coke and refined petroleum products
+uncertain,C30,9,Manufacture of other transport equipment
+uncertain,M72,8,Scientific research and development
+uncertain,C14,6,Manufacture of wearing apparel
+uncertain,G45,6,Wholesale and retail trade and repair of motor vehicles and motorcycles
+uncertain,J58,6,Publishing activities
+uncertain,C18,5,Printing and reproduction of recorded media
+uncertain,C25,5,"Manufacture of fabricated metal products, except machinery and equipment"
+uncertain,E38,5,"Waste collection, treatment and disposal activities; materials recovery"
+uncertain,C17,4,Manufacture of paper and paper products
+uncertain,C23,4,Manufacture of other non-metallic mineral products
+uncertain,G47,4,"Retail trade, except of motor vehicles and motorcycles"
+uncertain,C10,3,Manufacture of food products
+uncertain,D35,3,"Electricity, gas, steam and air conditioning supply"
+uncertain,G46,3,"Wholesale trade, except of motor vehicles and motorcycles"
+uncertain,S96,3,Other personal service activities
+uncertain,B8,2,Other mining and quarrying
+uncertain,C27,2,Manufacture of electrical equipment
+uncertain,H51,2,Air transport
+uncertain,J60,2,Programming and broadcasting activities
+uncertain,M70,2,Activities of head offices; management consultancy activities
+uncertain,O84,2,Public administration and defence; compulsory social security
+uncertain,R91,2,"Libraries, archives, museums and other cultural activities"
+uncertain,R93,2,Sports activities and amusement and recreation activities
+uncertain,T98,2,Undifferentiated goods- and services-producing activities of private households for own use
+uncertain,A1,1,"Crop and animal production, hunting and related service activities"
+uncertain,B6,1,Extraction of crude petroleum and natural gas
+uncertain,B9,1,Mining support service activities
+uncertain,C16,1,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+uncertain,C29,1,"Manufacture of motor vehicles, trailers and semi-trailers"
+uncertain,H,1,Transporting and storage
+uncertain,I,1,Accommodation and food service activities
+uncertain,M69,1,Legal and accounting activities
+uncertain,M75,1,Veterinary activities
+uncertain,N77,1,Rental and leasing activities
+uncertain,N79,1,"Travel agency, tour operator and other reservation service and related activities"
+uncertain,Q86,1,Human health activities
+uncertain,R90,1,"Creative, arts and entertainment activities"
